@@ -35,7 +35,7 @@ function Signin(){
                 <label>Password</label>
                 <input type='password' id='password' value={password} onChange={(e)=>setPassword(e.target.value)} required/>
 
-                <button><a href='https://main--dainty-ganache-8c4ad1.netlify.app/'>Sign ip</a></button>
+                <button><a href='https://main--dainty-ganache-8c4ad1.netlify.app/'>Sign in</a></button>
                 
             </form>
             
